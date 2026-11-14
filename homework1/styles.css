@@ -1,0 +1,61 @@
+.blue-text-underlined {
+    color: blue;
+    text-decoration: underline;
+}
+
+.february {
+    color: yellow;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+.gray-text {
+    color: gray;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+.april {
+    color: blue;
+    text-decoration: underline;
+}
+
+.september {
+    color: purple;
+    text-decoration: underline;
+    text-decoration-color: purple;   
+}
+
+ul {
+    margin: 2px;
+}
+
+ul li::marker {
+    color:black;
+}
+
+.red-text {
+    color: red;
+}
+
+.red-highlight {
+    background-color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.blue-highlight {
+    background-color: blue;
+}
+
+.border-black {
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.gold-text {
+    color: gold;
+}

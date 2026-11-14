@@ -1,0 +1,76 @@
+button {
+    background-color: green;   
+    margin-bottom: 50px;
+}
+
+.paragraph-one { 
+    background-color: blue;
+}
+
+.paragraph-two { 
+    background-color: turquoise;
+}
+
+h1 {
+    background-color: greenyellow;
+}
+
+table {
+    border-collapse:collapse; 
+    border:2px solid;
+    width: 250px;
+    height: 150px;
+}
+
+td {
+    border: 2px solid;
+    /* border: thick double aqua; */
+    /* border: 2mm ridge aqua; */
+}
+
+.c11 {
+    background-color: green;
+}
+
+.c12 {
+    background-color: yellow;
+}
+
+.c13 {
+    background-color: red;
+}
+
+.c21 {
+    background-color: greenyellow;
+}
+
+.c22 {
+    background-color: blue;
+}
+
+.c23 {
+    background-color: blueviolet;
+}
+
+.c31 {
+    background-color: white;
+}
+
+.c32 {
+    background-color: brown;
+}
+
+.c33 {
+    background: pink;
+}
+
+.test-image {
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+    /* border-style: dotted; */
+    /* border-style: inset; */
+    border-width: 10px;
+    border-color: green;
+    border-style: dashed solid;
+}
